@@ -9,5 +9,5 @@ typedef struct node{
 }
 
 void main() {
-
+  printf("2011244116 Test!!\n");
 }

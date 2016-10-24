@@ -10,4 +10,5 @@ typedef struct node{
 
 void main() {
   printf("2011244116 Test!!\n");
+  prtinf("2011244119 Test!!\n");
 }

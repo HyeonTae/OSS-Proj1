@@ -9,5 +9,7 @@ int maint() {
 
   printf("%d + %d = %d", a, b, a + b);
 
+  printf("master test\n");
+
   return 0;
 }

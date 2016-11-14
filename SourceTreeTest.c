@@ -9,7 +9,12 @@ int maint() {
 
   printf("%d + %d = %d", a, b, a + b);
 
+<<<<<<< HEAD
   printf("master test\n");
+=======
+  printf("이것은 테스트 브랜치 입니다\n");
+  printf("this is testbranch\n");
+>>>>>>> testBranch
 
   return 0;
 }
